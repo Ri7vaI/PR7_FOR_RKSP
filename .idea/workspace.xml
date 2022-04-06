@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdaa8626-eb3f-44f3-99ce-647067597e8a" name="Changes" comment="Practice 7 RKSP">
+      <change afterPath="$PROJECT_DIR$/../.idea/RKSP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/.idea/pr6-ikbo-20-19-ertek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/src/authConfig.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/src/components/PageLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/src/components/ProfileData.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/src/components/SignInButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/src/components/SignOutButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pr6-ikbo-20-19-ertek/src/graph.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$СП_Эртек_ХИ_ПР3_IKBO_2019.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="27OmdzKud3XzRIBtkGDvf3jTSOp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\STUDY\6 SEM\RKSP\pr7\react-postgres\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdaa8626-eb3f-44f3-99ce-647067597e8a" name="Changes" comment="" />
+      <created>1649199599972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649199599972</updated>
+      <workItem from="1649199601292" duration="4132000" />
+      <workItem from="1649203831280" duration="2155000" />
+      <workItem from="1649266837067" duration="1914000" />
+    </task>
+    <task id="LOCAL-00001" summary="Practice 7 RKSP">
+      <created>1649268751320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649268751320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Practice 7 RKSP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice 7 RKSP" />
+  </component>
+</project>
